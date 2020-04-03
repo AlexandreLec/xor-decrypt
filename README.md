@@ -7,7 +7,7 @@ python xordecrypt.py -h
 
 - -d : file to save the decrypted content
 
-- -l : key's lenght to gues
+- -l : key's lenght to guess
 - -k : key to decrypt (of you already know it)
 
 Example:
